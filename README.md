@@ -1,2 +1,2 @@
-# algorithm-c
-The common algorithm implemented by c language
+# algorithm
+The common algorithm 
